@@ -1,12 +1,12 @@
 {
-  "name": "lucatume/wp-browser",
+  "name": "lucasdemea/wp-browser",
   "type": "library",
   "description": "A set of Codeception modules to test WordPress projects.",
   "keywords": [
     "wordpress",
     "codeception"
   ],
-  "homepage": "https://github.com/lucatume/wp-browser",
+  "homepage": "https://github.com/LucasDemea/wp-browser",
   "license": "MIT",
   "authors": [
     {
